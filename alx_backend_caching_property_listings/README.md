@@ -1,6 +1,5 @@
 ###
-
-🏠 Property Listings App (Django + PostgreSQL + Redis Caching)
+Property Listings App (Django + PostgreSQL + Redis Caching)
 
 This project is a Django-based property listing application that demonstrates how to use PostgreSQL as the database and Redis as a cache backend to optimize performance.
 
@@ -18,7 +17,7 @@ Cache invalidation with Django signals
 
 Redis cache hit/miss metrics
 
-🚀 Features
+Features
 
 Create and manage property listings.
 
@@ -36,7 +35,7 @@ Automatic cache invalidation on DB changes.
 
 Monitoring Redis hit/miss metrics.
 
-🛠️ Tech Stack
+Tech Stack
 
 Backend: Django (Python)
 
